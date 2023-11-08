@@ -54,7 +54,7 @@ TODO: Add next steps
 
 ## Exploratory data analysis
 
-You can find the EDA in the [notebook](src/eda.ipynb)
+You can find the EDA in the [notebook](notebook.ipynb)
 
 ## Model training
 
@@ -90,13 +90,14 @@ You can get this dataset from the [site](https://bitscreener.com/coins/toncoin/p
 python src/train.py
 ```
 
-## Self-check
+## [Self-check](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCwqAtkjl07MTW-SxWUK9GUvMQ3Pv_fF8UadcuIYLgHa0PlNu9BRWtfLgivI8xSCncQs82HDwGXSm3/pubhtml)
 
-1. EDA - 2
-2. Model training - 0
-3. Script for model training - 0
-4. Dataset - 1
-5. Model deployment - 0
-6. Dependencies - 2
-7. Containerization - 0
-8. Deployment to the cloud - 0
+1. Problem description - 2/2
+2. EDA - 2/2
+3. Model training - 1/3
+4. Exporting notebook to script - 0/1
+5. Reproducibility - 0/1
+6. Model deployment - 0/1
+7. Dependency and environment management - 2/2
+8. Containerization - 0/2
+9. Cloud deployment - 0/2
